@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGD+wEBktlEmsdqelDdI3zKF1fM7r5ynCrT6eZ22zz78CfdqmbUDPexdeONZXGerQ3Obi3LBe/pPGqu+gpu4UQ==",
+  "success": true,
+  "projectFilePath": "C:\\dio\\patterns\\DesignPatternSamples\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vbazu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\vbazu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\vbazu\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\vbazu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

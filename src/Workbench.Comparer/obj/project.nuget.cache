@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8/z+71ggG/NJOg4SK76+jC7xUC7fNL+CZzTwjq4NclbFKeIci4sjPnRliySUS3S2HPnYhn88VtN8PsqoVkMIw==",
+  "success": true,
+  "projectFilePath": "C:\\dio\\patterns\\DesignPatternSamples\\src\\Workbench.Comparer\\Workbench.Comparer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vbazu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

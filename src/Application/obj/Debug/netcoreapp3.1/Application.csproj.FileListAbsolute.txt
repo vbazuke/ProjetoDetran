@@ -1,0 +1,14 @@
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.deps.json
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+C:\dio\patterns\DesignPatternSamples\src\Application\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+C:\dio\patterns\DesignPatternSamples\src\Application\obj\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
